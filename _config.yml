@@ -23,8 +23,8 @@ repository               : "andjadenic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "Andja Denic"
   avatar           : "/images/profile.jpg"
+  name             : "Andja Denic"
   bio              : "PhD Student in Applied Mathematics | Teaching Associate | Statistics and Machine Learning"
   location         : "Nis, Serbia"
   employer         : "University of Nis"
