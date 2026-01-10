@@ -11,3 +11,5 @@ redirect_from:
 - I previously completed my **MSc in Artificial Intelligence and Machine Learning** at the [Faculty of Sciences and Mathematics](https://www.pmf.ni.ac.rs/en/), University of Nis.
 - I work as a **teaching associate** at the [mathematics department](https://www.elfak.ni.ac.rs/en/departments/mathematics) at the [Faculty of Electronic Engineering](https://www.elfak.ni.ac.rs/en), University of Nis.
 - My research interests include **machine learning**, **statistics**, **data science**, and **time series**.
+
+**[Download my CV (PDF)](/files/andja_denic_cv.pdf)**
