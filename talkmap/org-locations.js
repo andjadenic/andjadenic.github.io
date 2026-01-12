@@ -10,13 +10,13 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "Master Thesis Defense: Image Captioning using ResNet and LSTM on MC COCO Dataset<br />UC San Francisco, Department of Testing; Nis, Serbia",
+    43.3162736,
+    21.9212335
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ]
 ];
