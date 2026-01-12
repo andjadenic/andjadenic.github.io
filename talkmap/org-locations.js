@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference talk: Can AI (Word2Vec) learn the code written in genes? \ud83e\uddec<br />University of Kragujevac, The Third Serbian International Conference on Applied Artificial Intelligence (SICAAI); Kragujevac, Serbia",
-    44.0131786,
-    20.9196353
+    "Conference talk: Can AI (Word2Vec) learn the code written in genes? \ud83e\uddec<br />The Third Serbian International Conference on Applied Artificial Intelligence (SICAAI); University of Kragujevac, Kragujevac, Serbia",
+    44.0225067,
+    20.9204031
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
