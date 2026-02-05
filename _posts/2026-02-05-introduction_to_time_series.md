@@ -9,12 +9,9 @@ tags:
   - stochastic process
   - sampling
 ---
-A process is weakly stationary if $E[X_t] = \mu$.
 
-Andja
+Any metric that is measured over regular time intervals makes a Time Series.
 
-$$
-\text{Cov}(X_t, X_{t+h}) = \gamma(h)
-$$
-
+Some examples include:
+* [Weekly averages of atmospheric CO2 concentrations in Hawaii](https://www.statsmodels.org/stable/datasets/generated/co2.html)
 
