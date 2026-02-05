@@ -17,7 +17,7 @@ Some examples include:
   <figure>
   <img src="images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png" alt="CO2 concentration" style="width:70%;">
   <figcaption>
-    Figure 1: Weekly averages of atmospheric CO2 concentrations in Hawaii. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/co2.html)
+    Figure 1: Weekly averages of atmospheric CO2 concentrations in Hawaii.
   </figcaption>
 </figure>
 
