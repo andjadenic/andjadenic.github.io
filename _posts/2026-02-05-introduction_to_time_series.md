@@ -24,9 +24,9 @@ Some examples include:
 
 
 * Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3
-  <figure style="text-align: center;">
-  <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png" width="300">
+
+  <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png" style="width:50%;">
   <figcaption>
-    Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/macrodata.html).
+    Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3. Data source: <a href="https://www.statsmodels.org/stable/datasets/generated/macrodata.html" target="_blank" rel="noopener">
   </figcaption>
 </figure>
