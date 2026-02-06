@@ -18,7 +18,7 @@ Some examples include:
 <figure style="text-align: center;">
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png" width="600">
   <figcaption>
-    Weekly averages of atmospheric CO2 concentrations in Hawaii from 1958 to 2001. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/co2.html)
+    Weekly averages of atmospheric CO2 concentrations in Hawaii from 1958 to 2001. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/co2.html).
   </figcaption>
 </figure>
 
@@ -26,6 +26,6 @@ Some examples include:
   <figure style="text-align: center;">
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png" width="600">
   <figcaption>
-    Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/macrodata.html)
+    Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/macrodata.html).
   </figcaption>
 </figure>
