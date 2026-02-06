@@ -16,6 +16,6 @@ Some examples include:
 * Weekly averages of atmospheric CO2 concentrations in Hawaii
 
 
-![proba](images/apple-touch-icon-180x180.png)
+![proba](andjadenic.github.io/images/apple-touch-icon-180x180.png)
 
 
