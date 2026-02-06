@@ -16,7 +16,7 @@ Some examples include:
 * Weekly averages of atmospheric CO2 concentrations in Hawaii. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/co2.html)
 
 <figure style="text-align: center;">
-  <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png" width="300">
+  <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png" style="width:50%;">
   <figcaption>
     Weekly averages of atmospheric CO2 concentrations in Hawaii from 1958 to 2001.
   </figcaption>
