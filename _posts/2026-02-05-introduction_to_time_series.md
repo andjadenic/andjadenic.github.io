@@ -15,8 +15,5 @@ Any metric that is measured over regular time intervals makes a Time Series.
 Some examples include:
 * Weekly averages of atmospheric CO2 concentrations in Hawaii
 
-![Federated learning architecture](/images/apple-touch-icon-180x180.png)
-
-[//]: # ![proba](https://andjadenic.github.io/images/apple-touch-icon-180x180.png)
-
+![CO2 data](/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png)
 
