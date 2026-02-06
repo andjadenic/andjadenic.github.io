@@ -22,6 +22,7 @@ Some examples include:
   </figcaption>
 </figure>
 
+
 * Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3
   <figure style="text-align: center;">
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png" width="300">
