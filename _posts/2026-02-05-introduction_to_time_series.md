@@ -69,3 +69,5 @@ x_5 &= -0.2
 
 
 ## Stochastic Process
+
+Proba \(X_t\) ili $X_t$
