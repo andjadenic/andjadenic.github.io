@@ -19,7 +19,7 @@ plotted in the figures below.
 <figure>
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png"
        alt="Weekly CO₂ concentration in Hawaii."
-       style="width:80%; display:block; margin: 0 auto;">
+       style="width:70%; display:block; margin: 0 auto;">
   <figcaption style="text-align:center;">
     Weekly averages of atmospheric CO₂ concentrations in Hawaii from 1958 to 2001.
     Data source:
@@ -31,11 +31,11 @@ plotted in the figures below.
 </figure>
 
 
-<figure style="text-align: center;">
+<figure>
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png"
        alt="Quarterly inflation rate in the United States."
-       style="width:80%;">
-  <figcaption>
+       style="width:70%; display:block; margin: 0 auto;">
+  <figcaption style="text-align:center;">
     Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3.
     Data source:
     <a href="https://www.statsmodels.org/stable/datasets/generated/macrodata.html"
@@ -45,8 +45,9 @@ plotted in the figures below.
   </figcaption>
 </figure>
 
-**Definition.**
 
-**Time series** is a dataset of observations indexed in time order
+**Definition.** **Time series** is a dataset of observations indexed in time order
+
 $$ \{x_t \} = \{x_t | t \in \{1, 2, ..., n\} \} = (x_1, x_2, ..., x_n)$$
-where $x_t$ is an observation at the time step $t$.
+
+where $$x_t$$ is an observation at the time step $$t$$.
