@@ -12,6 +12,21 @@ tags:
 
 Any metric that is measured over regular time intervals makes a Time Series.
 
+<figure style="text-align: center;">
+  <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png"
+       alt="Weekly CO₂ concentration in Hawaii."
+       style="width:50%;">
+  <figcaption>
+    Weekly averages of atmospheric CO₂ concentrations in Hawaii from 1958 to 2001.
+    Data source:
+    <a href="https://www.statsmodels.org/stable/datasets/generated/co2.html"
+       target="_blank" rel="noopener">
+      Statsmodels CO₂ dataset
+    </a>.
+  </figcaption>
+</figure>
+
+
 Some examples include:
 * Weekly averages of atmospheric CO2 concentrations in Hawaii. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/co2.html)
 
