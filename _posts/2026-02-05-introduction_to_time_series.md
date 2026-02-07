@@ -10,11 +10,11 @@ tags:
   - sampling
 ---
 
-Any metric that is measured over regular time intervals makes a Time Series.
+Any metric that is measured over regular time intervals makes a Time Series. Some examples are:
+1. Weekly averages of atmospheric CO₂ concentrations in Hawaii from 1958 to 2001:
 
 <figure style="text-align: center;">
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png"
-       alt="Weekly CO₂ concentration in Hawaii."
        style="width:50%;">
   <figcaption>
     Weekly averages of atmospheric CO₂ concentrations in Hawaii from 1958 to 2001.
