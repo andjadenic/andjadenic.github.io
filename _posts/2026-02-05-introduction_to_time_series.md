@@ -8,6 +8,7 @@ tags:
   - time series
   - stochastic process
   - sampling
+math: true
 ---
 
 Any metric that is measured over regular time intervals makes a Time Series. Some examples are:
@@ -43,3 +44,8 @@ plotted in the figures below.
     </a>.
   </figcaption>
 </figure>
+
+**Definition.**
+**Time series** is a dataset of observations indexed in time order
+$$ \{x_t \} = \{x_t | t \in \{1, 2, ..., n\} \} = (x_1, x_2, ..., x_n)$$
+where $x_t$ is an observation at the time step $t$.
