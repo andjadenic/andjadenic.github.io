@@ -56,10 +56,16 @@ where $$x_t$$ is an observation at the time step $$t$$.
 
 
 **Example 1.** $$(1.2, -0.3, 2.0, 0.3, -0.2)$$ is a time series of $n = 5$ observations. We have:
-$$
-x_1 = 1.2 \\
-x_2 = -0.3 \\
-x_3 = 2.0 \\
-x_4 = 0.3 \\
-x_5 =-0.2
-$$
+
+\[
+\begin{aligned}
+x_1 &= 1.2 \\
+x_2 &= -0.3 \\
+x_3 &= 2.0 \\
+x_4 &= 0.3 \\
+x_5 &= -0.2
+\end{aligned}
+\]
+
+
+## Stochastic Process
