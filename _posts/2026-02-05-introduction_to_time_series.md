@@ -27,6 +27,22 @@ Any metric that is measured over regular time intervals makes a Time Series.
 </figure>
 
 
+<figure style="text-align: center;">
+  <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png"
+       alt="Quarterly inflation rate in the United States."
+       style="width:50%;">
+  <figcaption>
+    Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3.
+    Data source:
+    <a href="https://www.statsmodels.org/stable/datasets/generated/macrodata.html"
+       target="_blank" rel="noopener">
+      Statsmodels macrodata dataset
+    </a>.
+  </figcaption>
+</figure>
+
+
+
 Some examples include:
 * Weekly averages of atmospheric CO2 concentrations in Hawaii. Data source: [statsmodels](https://www.statsmodels.org/stable/datasets/generated/co2.html)
 
