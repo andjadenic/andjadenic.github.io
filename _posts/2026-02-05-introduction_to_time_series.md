@@ -16,11 +16,11 @@ Any metric that is measured over regular time intervals makes a Time Series. Som
 * Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3
 plotted in the figures below.
 
-<figure style="text-align: center;">
+<figure>
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_co2_time_series.png"
-       style="width:50%;"
-       alt="Weekly CO₂ concentration in Hawaii.">
-  <figcaption>
+       alt="Weekly CO₂ concentration in Hawaii."
+       style="width:80%; display:block; margin: 0 auto;">
+  <figcaption style="text-align:center;">
     Weekly averages of atmospheric CO₂ concentrations in Hawaii from 1958 to 2001.
     Data source:
     <a href="https://www.statsmodels.org/stable/datasets/generated/co2.html"
@@ -34,7 +34,7 @@ plotted in the figures below.
 <figure style="text-align: center;">
   <img src="/images/posts/time_series/01_introduction_to_time_series/01_infl_time_series.png"
        alt="Quarterly inflation rate in the United States."
-       style="width:50%;">
+       style="width:80%;">
   <figcaption>
     Quarterly inflation rate in the United States from 1959 Q1 to 2009 Q3.
     Data source:
@@ -46,6 +46,7 @@ plotted in the figures below.
 </figure>
 
 **Definition.**
+
 **Time series** is a dataset of observations indexed in time order
 $$ \{x_t \} = \{x_t | t \in \{1, 2, ..., n\} \} = (x_1, x_2, ..., x_n)$$
 where $x_t$ is an observation at the time step $t$.
