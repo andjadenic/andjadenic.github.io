@@ -3,7 +3,7 @@ title: "Mathematics 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-teaching-1
-venue: "School of Electrical Engineering"
+venue: "Faculty of Electronic Engineering"
 date: 2026-01-01
 location: "Nis, Serbia"
 ---
