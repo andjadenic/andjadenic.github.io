@@ -3,7 +3,7 @@ title: "Mathematics 3"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-teaching-2
-venue: "School of Electrical Engineering, Aleksandra Medvedeva 4"
+venue: "Faculty of Electronic Engineering"
 date: 2026-01-01
 location: "Nis, Serbia"
 ---
